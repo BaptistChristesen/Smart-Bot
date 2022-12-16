@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SmartBot
+comment1.params=
+comment1.target=void\ turnAround()
+comment2.params=
+comment2.target=void\ turnRight()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=boolean\ wallToLeft()
+comment5.params=
+comment5.target=void\ pickAll()
+comment6.params=numSteps
+comment6.target=void\ move(int)
+comment7.params=
+comment7.target=void\ findBeeper()
+comment8.params=
+comment8.target=int\ countPile()
+numComments=9
